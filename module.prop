@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=kbui-magisk
+name=kbui
+version=v1.0
+versionCode=1
+author=saksham2811
+description=Magisk module for keyboard, boot animation and ui sounds customization
