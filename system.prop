@@ -1,2 +1,12 @@
 ro.com.google.ime.theme_file=vue.zip
 ro.com.google.ime.themes_dir=/system/etc/gboard_theme
+
+# Force dark mode
+debug.hwui.force_dark=true
+
+# Background blur
+ro.sf.blurs_are_expensive=1
+ro.surface_flinger.supports_background_blur=1
+debug.sf.latch_unsignaled=1
+debug.sf.disable_backpressure=1
+
