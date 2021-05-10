@@ -13,6 +13,7 @@
 
 <div align="center">
   <strong>Magisk module for keyboard, boot animation and ui sounds customization for OnePlus 6T
+  <strong>Added Blur and force-dark mode.
 </div>
 
 <div align="center">
