@@ -1,6 +1,6 @@
 id=kbui-magisk
 name=kbui
 version=v2
-versionCode=3
+versionCode=4
 author=saksham2811
-description=Magisk module for keyboard, boot animation and ui sounds customization, adds blur, turns on force-dark mode
+description=Magisk module for keyboard, boot animation and ui sounds customization, adds blur, turns on force-dark mode, enable unlimited google photos storage

@@ -12,8 +12,7 @@
       alt="_time_stamp_" /></div>
 
 <div align="center">
-  <strong>Magisk module for keyboard, boot animation and ui sounds customization for OnePlus 6T
-  <strong>Added Blur and force-dark mode.
+  <strong>Magisk module for keyboard, boot animation and ui sounds customization, Blur and force-dark mode for Android 11 that don't support, enable google photos unlimited storage.
 </div>
 
 <div align="center">
