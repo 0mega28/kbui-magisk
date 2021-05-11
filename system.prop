@@ -1,3 +1,4 @@
+# Required for g-board themes
 ro.com.google.ime.theme_file=vue.zip
 ro.com.google.ime.themes_dir=/system/etc/gboard_theme
 
