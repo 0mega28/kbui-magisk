@@ -10,3 +10,8 @@ ro.surface_flinger.supports_background_blur=1
 debug.sf.latch_unsignaled=1
 debug.sf.disable_backpressure=1
 
+# Unlimited google photos
+ro.product.model=Pixel
+ro.product.brand=Google
+ro.product.manufacturer=Google
+ro.opa.eligible_device=true
