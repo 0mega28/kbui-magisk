@@ -2,17 +2,17 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v1.0-blue.svg?longCache=true&style=popout-square"
+    <img src="https://img.shields.io/badge/Version-v2.0-blue.svg?longCache=true&style=popout-square"
       alt="Version" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Feburary 1, 2021-green.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-May 11, 2021-green.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Min Magisk -->
     <img src="https://img.shields.io/badge/MinMagisk-21.1-red.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" /></div>
 
 <div align="center">
-  <strong>Magisk module for keyboard, boot animation and ui sounds customization, Blur and force-dark mode for Android 11 that don't support, enable google photos unlimited storage.
+  <strong>Magisk module for keyboard, boot animation and ui sounds customization, Blur and force-dark mode for Android 11 ROM that don't have them enabled, enable google photos unlimited storage.
 </div>
 
 <div align="center">
